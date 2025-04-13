@@ -181,6 +181,7 @@ Click the portal
 - Skip the NPCs and open the door bottom right
 
 # A3
+![[Pasted image 20250410233447.png]]
 ## The Sheltered Wood
 ![[Pasted image 20250409032824.png]]
 Follow top wall until you exit the zone
@@ -194,3 +195,172 @@ This zone is fairly dangerous, skip through
 ![[Pasted image 20250409033816.png]]
 Ignore all NPCs, exit south
 ## Welryn Docks
+- Reach Quest Marker
+- Backtrack a little and kill the Void Centipede
+- Pick up the Symbol of Hope
+- **T** - Warp back to town
+![[Pasted image 20250412203036.png]]
+
+## Cultist Camp
+![[Pasted image 20250412203112.png]]
+Exit top left exit, again ignoring all NPCs
+
+## Ruins of Welryn
+Ignore the sidequest here, just get to the next zone
+![[Pasted image 20250412203302.png]]
+
+## Welryn Undercity
+- Start the quest on the left
+- Destroy the 3 Objectives
+- Talk to The Last Imperial again
+- **T** - Go back to town
+
+## Cultist Camp
+- Interact with Quest Marker and exit East
+
+## The Ritual Site
+![[Pasted image 20250412204103.png]]
+- Defeat the Void Amalgamation
+- Exit to The Shattered Valley
+## The Shattered Valley
+![[Pasted image 20250412204432.png]]
+- Ignore Sidequests, just get to the east exit
+## The Courtyard
+![[Pasted image 20250412205128.png]]
+Defeat the Temple Guardian
+## The Temple of Eterra
+You need to Kill the Abyssal Fiend for the path to open
+![[Pasted image 20250412205857.png]]
+## The Lotus Halls
+- Hug the left wall
+![[Pasted image 20250412210200.png]]
+- Go Through the portal and pick up the shard
+- Instead of going back to the zone you came in, press **M** and warp to the previous zone (Temple of Eterra)
+- Teleport back to the Lotus Halls
+- Use the shard for the bridge to open, get to next zone
+## The Sanctum Bastille
+[BLADEDANCER] You should be around level 20, when you are switch to daggers, Umbral Blades & Shadow Cascade
+![[Pasted image 20250412211043.png]]
+## The End of Ruin
+- Boss Fight
+- Pick up the shard
+# A4
+Prioritize Necrotic and Phys resists
+## The End of Time
+Go up the stairs to complete the quest, enter portal
+
+## The Outcast Camp
+- Talk to the NPC for the main quest and exit to next zone
+## Welryn Outskirts
+Flame Guard Sulla is a miniboss at the end of this zone that might surprise kill you with a fire beam, be wary of that.
+![[Pasted image 20250412212145.png]]
+## Imperial Welryn
+- Do the sidequest on the way
+- Exit North West
+![[Pasted image 20250412212415.png]]
+## The Soul Wardens' Road
+- Rush to the gate, kill enemies there until the gatet opens
+- Exit West
+![[Pasted image 20250412212651.png]]
+
+## The Risen Lake
+- Head Towards the waypoint
+- Ignore the time rift but head towards north west that way
+- Interact with the stone to open the way
+- Interact with the Seer
+- Kill the enemies that spawn
+- Interact with the Seer again
+- Exit TOP LEFT towards The Fallen Tower
+![[Pasted image 20250412213217.png]]
+
+## The Fallen Tower
+
+Follow the path to the next zone
+
+## Imperial Thetima
+![[Pasted image 20250412214058.png]]
+## The Darkling Pier
+![[Pasted image 20250412214135.png]]
+## The Imperial Dreadnought
+![[Pasted image 20250412214412.png]]
+## The Dreadnought's Deck
+![[Pasted image 20250412214718.png]]
+- Reach and defeat Admiral Harton
+- Talk to Alric
+- Exit top left using the quest marker
+
+# A5
+## The Shining Cove
+- Talk to Alric
+- Head to next zone
+![[Pasted image 20250412215040.png]]
+## The Majasan Desert
+- Talk to the NPC near the exit, this is to open the skip to A9
+![[Pasted image 20250412215304.png]]
+## The Wraith Dunes
+![[Pasted image 20250412220232.png]]
+## Maj'elka
+- Speak with Alric and go down the ladder
+- path through the south part, kill the side objective on the way
+- clear enemies around the npc on the floor and talk to it
+![[Pasted image 20250412220938.png]]
+- Head north from there and defeat the Bone Furnace
+- Interact with Alric
+- Head past the waypoint and exit north
+## The Sapphire Quarter
+- Head North
+- Defeat the Stygian Warden
+- Talk to Alric
+- Head further North
+- Defeat the Praetor Vul'arta
+- Talk to Alric
+- Follow him to Maj'elka
+## Maj'Elka
+- Dispel the Barrier and enter The Oracle's Abode
+## The Oracle's Abode
+- Accept the sidequest from the Shrine Maiden
+- Talk to the Oracle to complete the main quest
+# Side Quest Backtrack
+## Ruined Era - Shattered Valley
+![[Pasted image 20250412221832.png]]
+Quest: The Lesser Refuge - 2 Passive Points 
+*Can Skip this one in 1.2*
+- Head North and go to the Abandoned Tunnel
+- The Lost Refuge -> Pick up the Tome
+- Warp back to the Shattered Valley
+
+Quest: An Ancient Hunt - 2 Idol
+- Go through the time rift
+- Head around through Northeast until you kill the dragon
+- Warp to The Council Chambers to turn quests in
+## Imperial Era - The Risen Lake
+![[Pasted image 20250412222929.png]]
+1 Passive, 3 Idols
+- Go through the time rift
+![[Pasted image 20250412223139.png]]
+- Defeat Prophet of Ruin
+- Defeat Idol of Ruin
+
+# Unlocking the Skip to A9
+## Imperial Era - The Shining Cove 
+
+![[Pasted image 20250412223231.png]]
+Go through the rift
+## The Ruined Coast
+![[Pasted image 20250412223507.png]]
+- Defeat Ortra'ek The Survivor
+- Pick up the Sapphire Tablet
+- Exit East to Temporal Sanctum and **UNLOCK THE WAYPOINT**
+## Imperial Era - The Oracle's Abode
+- Turn in the sapphire for 1 passive, 2 idols
+
+# End of Time - Grind Monoliths 
+Your primary objectives at this point are to 
+- find a Temporal Sanctum Key
+- level to a point you're confident killing Julra
+- get a headstart on your mono progress towards empowered monos
+- transition into your build
+
+When you're ready, go through Temporal Sanctum
+
+# A9
