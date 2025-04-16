@@ -1,7 +1,12 @@
 # A1
-Time Objective: ~15min
+Segment Duration: ~18min
+Level: 0->8
 &nbsp
-[ROGUE]![[Pasted image 20250409033346.png]]
+[ROGUE]![[Pasted image 20250416171618.png]]
+[ROGUE]![[Pasted image 20250416175419.png]]
+[ROGUE]Use Acid Flask until Ulatri Highlands unless you get a 2H with high status, 
+[ROGUE]then use Shurikens with pierce. From that zone you switch to Puncture.
+[BLADEDANCER]![[Pasted image 20250409033346.png]]
 [ROGUE]![[Pasted image 20250409033426.png]]
 [ROGUE]![[Pasted image 20250409033432.png]]
 ## The Old Road
@@ -106,13 +111,11 @@ After the fight
 - You have some time waiting where you can put passives / look at gear before you get Warped to A2
 
 # A2
-[ROGUE] Optimal Puncture Tree
-[ROGUE] - *Perforate 2*
-[ROGUE] - **Bloodthirst 4**
-[ROGUE] - **Press the Attack 1**
-[ROGUE] - **Hunger 3**
-[ROGUE] - *Timing 1*
-[ROGUE] - **Rapid Strikes 3**
+Segment Duration: ~15min
+Level: 8->13
+&nbsp
+[ROGUE]![[Pasted image 20250416180106.png]]
+[ROGUE]![[Pasted image 20250416180228.png]]
 ## The Crumbling Ruins
 ![[Pasted image 20250409021858.png]]
 Take the shard, then go through the north-east path.
@@ -170,7 +173,7 @@ Exit to the east
 Time for the A2 boss fight, nothing special here just kill it
 Pick up the shard
 Click the portal
-## End of Time (Around level 13)
+## End of Time
 - Talk to NPC for main quest
 - Go up the stairs to the left, pick up your Mastery
 - Talk to Gaspar Again
@@ -181,6 +184,9 @@ Click the portal
 - Skip the NPCs and open the door bottom right
 
 # A3
+Segment Duration: ~20min
+Level: 13->19
+&nbsp
 ![[Pasted image 20250410233447.png]]
 ## The Sheltered Wood
 ![[Pasted image 20250409032824.png]]
@@ -245,7 +251,16 @@ You need to Kill the Abyssal Fiend for the path to open
 - Boss Fight
 - Pick up the shard
 # A4
+Segment Duration: ~15min
+Level: 19->25
+&nbsp
 Prioritize Necrotic and Phys resists
+[ROGUE]![[Pasted image 20250416180106.png]]
+[ROGUE]![[Pasted image 20250416180529.png]]
+If using bow, skip 1
+If playing Combo Burst, skip 4, 6, 7 in favor of 8
+If you found a high "Ward on Shadow" use 4 and spec into smoke bomb / dash shadow generators
+[ROGUE]![[Pasted image 20250416182214.png]]
 ## The End of Time
 Go up the stairs to complete the quest, enter portal
 
@@ -259,7 +274,7 @@ Flame Guard Sulla is a miniboss at the end of this zone that might surprise kill
 - Exit North West
 ![[Pasted image 20250412212415.png]]
 ## The Soul Wardens' Road
-- Rush to the gate, kill enemies there until the gatet opens
+- Rush to the gate, kill enemies there until the gate opens
 - Exit West
 ![[Pasted image 20250412212651.png]]
 
@@ -290,6 +305,9 @@ Follow the path to the next zone
 - Exit top left using the quest marker
 
 # A5
+Segment Duration: ~20min
+Level: 0->8
+&nbsp
 ## The Shining Cove
 - Talk to Alric
 - Head to next zone
@@ -354,13 +372,26 @@ Go through the rift
 ## Imperial Era - The Oracle's Abode
 - Turn in the sapphire for 1 passive, 2 idols
 
-# End of Time - Grind Monoliths 
+# Monolith Grind
+[ROGUE]![[Pasted image 20250416171618.png]]
+[MARKSMAN]![[Pasted image 20250416173334.png]]
+Place points towards your preferred build from here
+[MARKSMAN] Can respec rogue tree down to 20 for an ealier Haertseeker or Hail of Arrows
+## Grind Monoliths 
 Your primary objectives at this point are to 
 - find a Temporal Sanctum Key
 - level to a point you're confident killing Julra
 - get a headstart on your mono progress towards empowered monos
 - transition into your build
 
-When you're ready, go through Temporal Sanctum
+**When you find a Temporal Sanctum Key, go through Temporal Sanctum and finish A9**
 
-# A9
+## CoF Prophecies
+Always: Wealth + Rhyme
+Armour: Non-Monolith
+Idols: Non-Monolith
+Weapon: Your target Weapon Type or Off-Hand Type 
+Accessory: Non-Monolith
+
+## Weaver Tree
+![[Pasted image 20250416165302.png]]
